@@ -1,5 +1,5 @@
-## my portfolio website
+# my portfolio website
 
-# check out my portfolio website
+## check out my portfolio website
 
-click [here]()
+click [here](https://theniyirichard.github.io/website/)
